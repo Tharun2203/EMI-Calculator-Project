@@ -1,0 +1,72 @@
+2026-02-02 22:16:58 [main] INFO  testCases.TC_001_CarLoan - Selecting Car Loan Tab
+2026-02-02 22:16:59 [main] INFO  testCases.TC_001_CarLoan - Entering Car Loan Details
+2026-02-02 22:17:02 [main] INFO  testCases.TC_001_CarLoan - Printing Car Loan Results into Console
+2026-02-02 22:17:05 [main] INFO  testCases.TC_001_CarLoan - ***** * Finished Test Case TC_001_CarLoan ******
+2026-02-02 22:17:05 [main] INFO  testCases.TC_001_CarLoan - ====Test Suite Ended====
+2026-02-02 22:17:14 [main] INFO  testCases.TC_002_HomeLoan - ====Test Suite Started====
+2026-02-02 22:17:14 [main] INFO  Listeners.DriverFactory - Initializing Chrome Driver
+2026-02-02 22:17:16 [main] INFO  Listeners.DriverFactory - Navigating to EMI Calculator Website
+2026-02-02 22:17:23 [main] INFO  testCases.TC_002_HomeLoan - Browser launched
+2026-02-02 22:17:23 [main] INFO  testCases.TC_002_HomeLoan - Extent report initialized
+2026-02-02 22:17:23 [main] INFO  testCases.TC_002_HomeLoan - ****** Started TC_002_HomeLoan ******
+2026-02-02 22:17:23 [main] INFO  testCases.TC_002_HomeLoan - Opening Home Loan EMI Calculator
+2026-02-02 22:17:29 [main] INFO  testCases.TC_002_HomeLoan - Entering Home Loan Details till Date Picker
+2026-02-02 22:17:35 [main] INFO  testCases.TC_002_HomeLoan - Capturing Screenshot and Extracting Year Wise Table Data
+2026-02-02 22:17:39 [main] INFO  testCases.TC_002_HomeLoan - Writing Year Wise Table Data to Excel
+2026-02-02 22:17:49 [main] INFO  testCases.TC_002_HomeLoan - **** Finished Test Case TC_002_HomeLoan ****
+2026-02-02 22:17:49 [main] INFO  testCases.TC_002_HomeLoan - ====Test Suite Ended====
+2026-02-02 22:17:55 [main] INFO  testCases.TC_003_EmiCalculatorValidation - ====Test Suite Started====
+2026-02-02 22:17:55 [main] INFO  Listeners.DriverFactory - Initializing Chrome Driver
+2026-02-02 22:17:58 [main] INFO  Listeners.DriverFactory - Navigating to EMI Calculator Website
+2026-02-02 22:18:05 [main] INFO  testCases.TC_003_EmiCalculatorValidation - Browser launched
+2026-02-02 22:18:05 [main] INFO  testCases.TC_003_EmiCalculatorValidation - Extent report initialized
+2026-02-02 22:18:05 [main] INFO  testCases.TC_003_EmiCalculatorValidation - ****** Started TC_003_EmiCalculator Tab ******
+2026-02-02 22:18:05 [main] INFO  testCases.TC_003_EmiCalculatorValidation - Validating Loan Amount Slider
+2026-02-02 22:18:12 [main] INFO  testCases.TC_003_EmiCalculatorValidation - Validating Interest Rate Slider
+2026-02-02 22:18:13 [main] INFO  testCases.TC_003_EmiCalculatorValidation - Validatig Loan Tenure Slider
+2026-02-02 22:18:14 [main] INFO  testCases.TC_003_EmiCalculatorValidation - Validating Fee Slider
+2026-02-02 22:18:15 [main] INFO  testCases.TC_003_EmiCalculatorValidation - ****** Completed TC_003_EmiCalculator ******
+2026-02-02 22:18:15 [main] INFO  testCases.TC_003_EmiCalculatorValidation - ====Test Suite Ended====
+2026-02-02 22:18:20 [main] INFO  testCases.TC_004_LoanAmountCalculator - ====Test Suite Started====
+2026-02-02 22:18:20 [main] INFO  Listeners.DriverFactory - Initializing Chrome Driver
+2026-02-02 22:18:22 [main] INFO  Listeners.DriverFactory - Navigating to EMI Calculator Website
+2026-02-02 22:18:30 [main] INFO  testCases.TC_004_LoanAmountCalculator - Browser launched
+2026-02-02 22:18:30 [main] INFO  testCases.TC_004_LoanAmountCalculator - Extent report initialized
+2026-02-02 22:18:30 [main] INFO  testCases.TC_004_LoanAmountCalculator - ****** Started TC_004_LoanCalculator Tab ******
+2026-02-02 22:18:30 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validating EMI Slider
+2026-02-02 22:18:37 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validating Interest Rate Slider
+2026-02-02 22:18:38 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validatig Loan Tenure Slider
+2026-02-02 22:18:38 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validating Fee Slider
+2026-02-02 22:18:39 [main] INFO  testCases.TC_004_LoanAmountCalculator - ****** Completed TC_004_LoanAmountCalculator ******
+2026-02-02 22:18:39 [main] INFO  testCases.TC_004_LoanAmountCalculator - ====Test Suite Ended====
+2026-02-02 22:18:44 [main] INFO  testCases.TC_005_LoanTenureCalculator - ====Test Suite Started====
+2026-02-02 22:18:44 [main] INFO  Listeners.DriverFactory - Initializing Chrome Driver
+2026-02-02 22:18:47 [main] INFO  Listeners.DriverFactory - Navigating to EMI Calculator Website
+2026-02-02 22:18:53 [main] INFO  testCases.TC_005_LoanTenureCalculator - Browser launched
+2026-02-02 22:18:53 [main] INFO  testCases.TC_005_LoanTenureCalculator - Extent report initialized
+2026-02-02 22:18:53 [main] INFO  testCases.TC_005_LoanTenureCalculator - ****** Started TC_005_LoanTenureCalculator ******
+2026-02-02 22:18:53 [main] INFO  testCases.TC_005_LoanTenureCalculator - Validating Loan Amount Slider
+2026-02-02 22:19:00 [main] INFO  testCases.TC_005_LoanTenureCalculator - Validating EMI Slider
+2026-02-02 22:19:01 [main] INFO  testCases.TC_005_LoanTenureCalculator - Validatig Interest Slider
+2026-02-02 22:19:02 [main] INFO  testCases.TC_005_LoanTenureCalculator - Validating Fee Slider
+2026-02-02 22:19:03 [main] INFO  testCases.TC_005_LoanTenureCalculator - ****** Completed TC_005_LoanTenureCalculator ******
+2026-02-02 22:19:03 [main] INFO  testCases.TC_005_LoanTenureCalculator - ====Test Suite Ended====
+2026-02-16 11:13:14 [main] INFO  testCases.TC_001_CarLoan - ====Test Suite Started====
+2026-02-16 11:13:14 [main] INFO  Listeners.DriverFactory - Initializing Chrome Driver
+2026-02-16 11:13:18 [main] INFO  Listeners.DriverFactory - Navigating to EMI Calculator Website
+2026-02-16 11:13:24 [main] INFO  testCases.TC_001_CarLoan - Browser launched
+2026-02-16 11:13:24 [main] INFO  testCases.TC_001_CarLoan - Extent report initialized
+2026-02-16 11:13:24 [main] INFO  testCases.TC_001_CarLoan - ****** Started TC_001_CarLoan ******
+2026-02-16 11:13:24 [main] INFO  testCases.TC_001_CarLoan - Selecting Car Loan Tab
+2026-02-16 11:13:25 [main] INFO  testCases.TC_001_CarLoan - Entering Car Loan Details
+2026-02-16 11:13:26 [main] INFO  testCases.TC_001_CarLoan - Printing Car Loan Results into Console
+2026-02-16 11:13:29 [main] INFO  testCases.TC_001_CarLoan - ***** * Finished Test Case TC_001_CarLoan ******
+2026-02-16 11:13:29 [main] INFO  testCases.TC_001_CarLoan - ====Test Suite Ended====
+2026-02-16 11:13:33 [main] INFO  testCases.TC_002_HomeLoan - ====Test Suite Started====
+2026-02-16 11:13:33 [main] INFO  Listeners.DriverFactory - Initializing Chrome Driver
+2026-02-16 11:13:35 [main] INFO  Listeners.DriverFactory - Navigating to EMI Calculator Website
+2026-02-16 11:13:41 [main] INFO  testCases.TC_002_HomeLoan - Browser launched
+2026-02-16 11:13:41 [main] INFO  testCases.TC_002_HomeLoan - Extent report initialized
+2026-02-16 11:13:41 [main] INFO  testCases.TC_002_HomeLoan - ****** Started TC_002_HomeLoan ******
+2026-02-16 11:13:41 [main] INFO  testCases.TC_002_HomeLoan - Opening Home Loan EMI Calculator
+2026-02-16 11:13:45 [main] INFO  testCases.TC_002_HomeLoan - Entering Home Loan Details till Date Picker
